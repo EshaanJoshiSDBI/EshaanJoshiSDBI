@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EshaanJoshiSDBI
+- 👋 Hi, I’m @ Eshaan Joshi
 - 👀 I’m interested in analysing data and making web apps
 - 🌱 I’m currently learning Data Science and Business Intelligence
 - 💞️ I’m looking to collaborate on Data Science Applications, Dashboards and Projects
