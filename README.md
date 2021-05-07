@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EshaanJoshiSDBI
 - 👀 I’m interested in analysing data and making web apps
 - 🌱 I’m currently learning Data Science and Business Intelligence
-- 💞️ I’m looking to collaborate on Data Science Apps
+- 💞️ I’m looking to collaborate on Data Science Applications, Dashboards and Projects
 - 📫 How to reach me eshaanjoshi713@gmail.com
 
 <!---
