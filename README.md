@@ -4,6 +4,15 @@
 - 🌱 I’m currently learning Data Science and Business Intelligence
 - 💞️ I’m looking to collaborate on Data Science Applications, Dashboards and Projects
 - 📫 How to reach me eshaanjoshi713@gmail.com
+---
+### Programming Languages
+![Alt text](python.png =100x) | ![Alt text](Rlogo.png =100x) | ![Alt text](go.png =100x) | ![Alt text](c++.png =100x) | ![Alt text](java.jpeg =100x)
+![Alt text](js.png = 100x) | ![Alt text](SQL.png =100x)
+
+### Scripting Languages
+![Alt text](html5.png =100x) | ![Alt text](css.png =100x)
+
+### Tools
 
 <!---
 EshaanJoshiSDBI/EshaanJoshiSDBI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
