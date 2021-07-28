@@ -6,7 +6,7 @@
 - 📫 How to reach me eshaanjoshi713@gmail.com
 ---
 ### Programming Languages
-<img src="python.png" alt="python" width="200">  <img src="Rlogo.png" alt="R" height = '100'>  <img src="go.png" alt="Golang" width="200">  <img src="c++.svg" alt="C++" width="200" height = '100'>  <img src="java.jpeg" alt="java" height = '100'>  <img src="js.png" alt="JavaScript" height="100" >  <img src="SQL.png" alt="SQL" height = '100'> <img src = 'vbaforexcel.png' alt = 'VBA for Excel' height = '150'>
+<img src="python.png" alt="python" width="200">  <img src="Rlogo.png" alt="R" height = '100'>  <img src="go.png" alt="Golang" width="200">  <img src="c++.svg" alt="C++" width="200" height = '100'>  <img src="java.jpeg" alt="java" height = '100'>  <!--<img src="js.png" alt="JavaScript" height="100" >-->  <img src="SQL.png" alt="SQL" height = '100'> <img src = 'vbaforexcel.png' alt = 'VBA for Excel' height = '150'>
 
 ### Scripting Languages
 <img src="html5.png" alt="HTML5" height = '100'>  <img src="css.png" alt="CSS3" height = '100'>
