@@ -12,10 +12,11 @@
 <img align = "left" alt = "CSS" height = "50px" style = "padding-right:10px" src="css.png"/>
 <img align = "left" alt = "Git" width = "80px" style = "padding-right:10px" src="git.png"/>
 <img align = "left" alt = "Power BI" width = "35px" style = "padding-right:10px" src="PowerBI.png"/>
-<img align = "left" alt = "Google Looker Studio" width = "80px" style = "padding-right:10px padding-top:10x" src="looker studio.png"/>
+<img align = "left" alt = "Google Looker Studio" height = "35px" style = "padding-right:10px padding-top:10x" src="looker studio.png"/>
 <img align = "left" alt = "Excel" width = "50px" style = "padding-right:10px" src="excel.png"/>
 <img align = "left" alt = "Linux" height = "40px" style = "padding-right:10px" src="linux.jpeg"/>
-<img align = "left" alt = "Docker" width = "180px" style = "padding-right:10px" src="docker.png"/>
+<img align = "left" alt = "Docker" width = "150px" style = "padding-right:10px" src="docker.png"/>
 </p>
-<br><br>
+<br><br><br>
+
 <h4 align = "justify"><a align = "left" href="https://eshaanjoshisdbi.github.io/Portfolio">My Portfolio website</a></h4>
