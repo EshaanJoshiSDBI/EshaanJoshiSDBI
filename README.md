@@ -5,7 +5,7 @@
 For a more detailed overview of my work experience, skills and education:
 📄 [Click here to view My Resume](./EshaanJoshi_Resume.pdf)
 
-📫 [Portfolio](https://eshaanjoshisdbi.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/eshaanjoshi11/) • [GitHub](https://github.com/EshaanJoshiSDBI)
+📫 [Portfolio](https://eshaanjoshisdbi.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/eshaanjoshi11/)
 
 ---
 
